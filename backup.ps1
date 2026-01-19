@@ -9,7 +9,7 @@ param(
 	[int]$RetentionDays = 0,
 	[switch]$DryRun
 )
-
+# Configurar para detenerse en errores
 $ErrorActionPreference = "Stop"
 
 function Exec {
