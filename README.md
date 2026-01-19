@@ -1,4 +1,5 @@
 # reto2026
+hhhh
 
 Colección de scripts PowerShell para administración de sistemas Windows y Linux.
 
